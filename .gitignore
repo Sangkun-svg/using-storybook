@@ -2,6 +2,5 @@
  
 
 *.DS_Store
-.storybook
 node_modules
 storybook-static
